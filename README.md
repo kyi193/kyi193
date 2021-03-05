@@ -12,7 +12,7 @@
 
 ## 💻 Tech Stack
 * Language: JavaScript
-* Front End: React
+* Front End: React/React Native
 * Back End: Express/Node.js/MongoDB
 
 ## 💬 Ask me about

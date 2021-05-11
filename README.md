@@ -7,8 +7,8 @@
     | UMD Graduate - Full stack web/mobile developer - Music lover |
 </h3>
 
-## 🚧 Currently building
-* <a href="https://github.com/kyi193/poker-news-discord-bot">Pokord Discord Bot</a> - A full stack application that lets you retrieve your favorite poker related news article straight to your discord client.
+## Read about my journey as a self-taught developer landing my first career!
+* <a href="https://hatchways.io/blog/grit-and-patience-from-poker-to-programming">Grit and Patience - From Poker to Programming</a>
 
 ## 💻 Tech Stack
 * Language: JavaScript
